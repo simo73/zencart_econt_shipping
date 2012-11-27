@@ -1,0 +1,18 @@
+﻿body,td,th {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.page_name_auto_complete li{
+border: solid thin;
+padding:5px;
+list-style:none;
+}
+
+.page_name_auto_complete li:hover{
+border: solid thin;
+padding:5px;
+background-color:#333333;
+color:#FFFFFF;
+list-style:none;
+}
