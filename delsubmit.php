@@ -1,6 +1,6 @@
 <?php
 /**
- * zencart mod
+ * zencart mod v.1.0
  * SIMEON MLADENOV
 */
 
